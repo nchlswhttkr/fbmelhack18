@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": "event",
+      "title": "Autumn Concert 2018",
+      "message": "Come and see our Autumn Concert on May 31st!",
+      "event_url": "https://www.facebook.com/groups/1662261627183410/",
+      "end_date": "2018-05-31"
+    },
+    {
+      "id": 2,
+      "type": "event",
+      "title": "Spring Concert 2018",
+      "message": "Our Spring Concert on September 31st is going to be the best in the world!",
+      "event_url": "https://www.facebook.com/groups/1662261627183410/",
+      "end_date": "2018-09-31"
+    },
+    {
+      "title": "Christmas Concert",
+      "message": "Celebrate the festive season with us and spread some carols and cheer!",
+      "type": "event",
+      "id": 3,
+      "event_url": "https://www.facebook.com/groups/1662261627183410/",
+      "end_date": "2018-12-25"
+    }
+  ]
+}

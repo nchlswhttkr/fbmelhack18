@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json-server": "^0.12.2"
+  },
+  "scripts": {
+    "start": "yarn json-server --watch db.json"
+  }
+}
