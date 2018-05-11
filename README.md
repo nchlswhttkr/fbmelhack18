@@ -1,5 +1,7 @@
 _This repository is a mirror of the repository used for the competition, with API keys and emails redacted._
 
+_Team Members: [Nicholas](https://github.com/nchlswhttkr), [Patrick](https://github.com/BlueyNeilo), [Hugh](https://github.com/Hughmanpie) and [Tij](https://github.com/ktij)_
+
 # fbmelhack18
 
 Facebook Regional Hack Melbourne 2018
